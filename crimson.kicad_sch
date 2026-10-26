@@ -5518,7 +5518,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_'"
 			(at 132.08 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5601,7 +5601,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_I"
 			(at 213.36 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5839,7 +5839,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_P"
 			(at 213.36 195.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6026,7 +6026,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_F5"
 			(at 152.4 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6109,7 +6109,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_Enter"
 			(at 213.36 177.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6296,7 +6296,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_F9"
 			(at 233.68 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6379,7 +6379,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_PgUp"
 			(at 91.44 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6566,7 +6566,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_\\"
 			(at 193.04 177.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6740,7 +6740,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "152ef954-30f0-4389-90f9-57dc5c3add81")
 		(property "Reference" "SW87"
@@ -6927,7 +6927,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1b91afe9-d335-482b-8151-efbedfb6e3ef")
 		(property "Reference" "SW85"
@@ -7023,7 +7023,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_5"
 			(at 152.4 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7106,7 +7106,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_-"
 			(at 111.76 177.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7293,7 +7293,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_Tab"
 			(at 50.8 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7363,7 +7363,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "21452c4b-b8d3-447d-8f5e-c5b19d51060b")
 		(property "Reference" "D87"
@@ -7584,7 +7584,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_LCtrl"
 			(at 50.8 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7875,7 +7875,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_F3"
 			(at 111.76 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8270,7 +8270,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_V"
 			(at 132.08 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8457,7 +8457,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_LShift"
 			(at 50.8 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8540,7 +8540,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_F1"
 			(at 71.12 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8623,7 +8623,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_Q"
 			(at 71.12 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8706,7 +8706,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_J"
 			(at 193.04 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8893,7 +8893,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_PrtSc"
 			(at 233.68 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8976,7 +8976,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_Z"
 			(at 71.12 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9059,7 +9059,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_Down"
 			(at 91.44 195.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9142,7 +9142,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_F10"
 			(at 233.68 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9641,7 +9641,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_X"
 			(at 91.44 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9724,7 +9724,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_Up"
 			(at 50.8 195.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10015,7 +10015,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_RWin"
 			(at 152.4 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10306,7 +10306,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_Backspace"
 			(at 213.36 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10493,7 +10493,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_RShift"
 			(at 193.04 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10654,7 +10654,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_G"
 			(at 152.4 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10945,7 +10945,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_Delete"
 			(at 50.8 177.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11028,7 +11028,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_W"
 			(at 91.44 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11319,7 +11319,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_O"
 			(at 193.04 195.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11402,7 +11402,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_6"
 			(at 172.72 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11589,7 +11589,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_4"
 			(at 132.08 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11672,7 +11672,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_;"
 			(at 111.76 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11950,7 +11950,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5ee485c8-1811-47c0-bb66-32bc9903ff17")
 		(property "Reference" "D66"
@@ -12358,7 +12358,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_RAlt"
 			(at 132.08 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12441,7 +12441,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_A"
 			(at 71.12 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12524,7 +12524,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_F7"
 			(at 193.04 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13335,7 +13335,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_B"
 			(at 152.4 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13418,7 +13418,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_/"
 			(at 172.72 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13709,7 +13709,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_."
 			(at 152.4 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13792,7 +13792,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_LMod"
 			(at 71.12 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13875,7 +13875,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_3"
 			(at 111.76 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14270,7 +14270,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_T"
 			(at 152.4 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14457,7 +14457,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_ScrollLock"
 			(at 233.68 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14852,7 +14852,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_F4"
 			(at 132.08 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14935,7 +14935,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_F12"
 			(at 233.68 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15018,7 +15018,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_E"
 			(at 111.76 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15284,7 +15284,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_]"
 			(at 172.72 177.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15367,7 +15367,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_K"
 			(at 213.36 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15554,7 +15554,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_End"
 			(at 71.12 177.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15637,7 +15637,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_Left"
 			(at 71.12 195.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15720,7 +15720,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_F2"
 			(at 91.44 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15907,7 +15907,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_M"
 			(at 193.04 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15990,7 +15990,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_1"
 			(at 71.12 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16073,7 +16073,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_F"
 			(at 132.08 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16156,7 +16156,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_Y"
 			(at 172.72 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16551,7 +16551,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_F8"
 			(at 213.36 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16634,7 +16634,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_R"
 			(at 132.08 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16704,7 +16704,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9d551258-7887-4e98-a440-361b07166311")
 		(property "Reference" "SW86"
@@ -16800,7 +16800,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_7"
 			(at 193.04 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16883,7 +16883,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_LAlt"
 			(at 91.44 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17057,7 +17057,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "aae659b2-b87b-4370-afff-d953894de2d9")
 		(property "Reference" "D86"
@@ -17568,7 +17568,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_S"
 			(at 91.44 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17651,7 +17651,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_U"
 			(at 193.04 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17734,7 +17734,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_RCtrl"
 			(at 193.04 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18129,7 +18129,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_["
 			(at 152.4 177.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18524,7 +18524,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_Insert"
 			(at 50.8 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18919,7 +18919,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_N"
 			(at 172.72 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19002,7 +19002,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_2"
 			(at 91.44 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19189,7 +19189,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_Capslock"
 			(at 50.8 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19480,7 +19480,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_,"
 			(at 213.36 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19875,7 +19875,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_F11"
 			(at 233.68 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19945,7 +19945,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "dcd2f261-78f0-47e4-bcf6-937b2136d4af")
 		(property "Reference" "D85"
@@ -20049,7 +20049,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "dd3c690d-7bb8-4879-a94b-f24b61266bee")
 		(property "Reference" "SW66"
@@ -20145,7 +20145,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_Right"
 			(at 111.76 195.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20228,7 +20228,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_H"
 			(at 172.72 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20311,7 +20311,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_D"
 			(at 111.76 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20602,7 +20602,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_0"
 			(at 233.68 195.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20685,7 +20685,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_´"
 			(at 50.8 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20768,7 +20768,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_9"
 			(at 233.68 177.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21059,7 +21059,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_8"
 			(at 213.36 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21142,7 +21142,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_PgDn"
 			(at 91.44 177.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21329,7 +21329,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_F6"
 			(at 172.72 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21516,7 +21516,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_L"
 			(at 213.36 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21599,7 +21599,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_C"
 			(at 111.76 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21890,7 +21890,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_+"
 			(at 132.08 177.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22363,7 +22363,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_Home"
 			(at 71.12 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22654,7 +22654,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_Space"
 			(at 111.76 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22737,7 +22737,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_Pause"
 			(at 233.68 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22820,7 +22820,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push_Shielded"
+		(property "Value" "SW_Esc"
 			(at 50.8 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
