@@ -12160,7 +12160,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x12_P2.00mm_Vertical"
 			(at 88.9 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -23441,7 +23441,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x22_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x22_P2.00mm_Vertical"
 			(at 327.66 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -24033,7 +24033,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x12_P2.00mm_Vertical"
 			(at 87.63 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -24352,7 +24352,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x22_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x22_P2.00mm_Vertical"
 			(at 326.39 114.3 0)
 			(hide yes)
 			(show_name no)
